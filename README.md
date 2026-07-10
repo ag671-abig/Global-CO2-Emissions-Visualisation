@@ -1,29 +1,17 @@
-# Global CO₂ Emissions Visualisation
-**DSM050 Data Visualisation Coursework**
+# Global CO₂ Emissions, Economic Development and Energy Sources
 
-## Project Overview
-This project explores global CO₂ emissions, economic development, population growth and energy sources using the Our World in Data CO₂ dataset.
+**Module:** DSM050 Data Visualisation  
+**Student ID:** 250409387
 
-The project includes:
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical visualisations
-- Dashboard design
-- Final report
+## Repository Contents
 
-## Repository Structure
-```
-data/          Dataset
-figures/       Visualisations
-dashboard/     Dashboard
-Global_CO2_Analysis.ipynb
-Global_CO2_Report.pdf
-```
+- `Global_CO2_Emissions.ipynb` – Jupyter notebook containing the complete data preprocessing, exploratory data analysis, visualisations and dashboard.
+- `Global_CO2_Report.pdf` – Final coursework report.
+- `data/` – Our World in Data CO₂ dataset and codebook.
+- `figures/` – Exported visualisations used in the report.
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
+## Dataset
+
+Our World in Data (OWID) CO₂ and Greenhouse Gas Emissions Dataset
+
+https://github.com/owid/co2-data
