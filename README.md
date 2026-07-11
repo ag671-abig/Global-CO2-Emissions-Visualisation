@@ -6,7 +6,7 @@
 ## Repository Contents
 
 - `Global_CO2_Emissions.ipynb` – Jupyter notebook containing the complete data preprocessing, exploratory data analysis, visualisations and dashboard.
-- `Global_CO2_Report.pdf` – Final coursework report.
+- `Global_CO2_Emission_Report.pdf` – Final coursework report.
 - `data/` – Our World in Data CO₂ dataset and codebook.
 - `figures/` – Exported visualisations used in the report.
 
