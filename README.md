@@ -9,6 +9,7 @@
 - `Global_CO2_Emission_Report.pdf` – Final coursework report.
 - `data/` – Our World in Data CO₂ dataset and codebook.
 - `figures/` – Exported visualisations used in the report.
+- `dashboard/` – Exported dashboard.
 
 ## Dataset
 
